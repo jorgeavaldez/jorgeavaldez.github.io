@@ -11,7 +11,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-weight: 300;
     color: #ffffff;
 }
@@ -73,9 +73,10 @@ a:after {
 */
 
 h1 {
+    font-family: 'Open Sans', sans-serif;
 	font-size: 70px;
     font-weight: 400;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 h3
@@ -91,6 +92,14 @@ h5
     font-style: italic;
     margin-top: 0px;
     margin-bottom: 25px;
+}
+
+#gradient
+{
+  width: 100%;
+  height: 800px;
+  padding: 0px;
+  margin: 0px;
 }
 
 .w {
