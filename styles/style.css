@@ -379,7 +379,7 @@ h5 {
 #nice {
   font-weight: 200;
   font-size: 45px;
-  padding-top: 10px;
+  padding-top: 15px;
   padding-left: 2px;
   padding-bottom: 5px;
   color: #757575;
@@ -390,10 +390,11 @@ body {
   margin: 0 auto;
   text-align: left;
   padding: 80px;
+  padding-top: 200px;
   font-weight: 200;
 }
 .languages {
-  padding-top: 15px;
+  padding-top: 50px;
 }
 #langHead {
   font-weight: 300;
