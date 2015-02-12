@@ -1,0 +1,15 @@
+{
+  "name": "Personal",
+  "version": "1.0.0",
+  "description": "Practice Personal Site",
+  "main": "index.js",
+  "dependencies": {
+    "jade": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jorgeavaldez",
+  "license": "ISC"
+}
