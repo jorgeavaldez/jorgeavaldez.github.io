@@ -1,0 +1,9 @@
+{
+  "name": "delvaze.xyz",
+  "version": "0.2.0",
+  "main": "index.html",
+  "repository": "git@github.com:jorgeavaldez/jorgeavaldez.github.io.git",
+  "author": "Jorge Valdez <jorge@yung.dev>",
+  "license": "MIT",
+  "private": false
+}
